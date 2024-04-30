@@ -1,2 +1,2 @@
 # Тестовая документация  
-[Чек-лист](https://docs.google.com/spreadsheets/d/1HpMVoF86MntIRQhyDDmi2Edd5m30KnGRciOox177QdM/edit?usp=sharing) для тестирования регистрации, логина и каталога. 
+[Чек-лист](https://docs.google.com/spreadsheets/d/1tCtvKM4hpAPXVEGKIiBdsh5pCOABQq4sa5hVcsK3Kq4/edit?usp=sharing) для тестирования регистрации, логина и каталога. 
